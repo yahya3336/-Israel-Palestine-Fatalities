@@ -18,4 +18,5 @@ This dashboard does not aim to take sides. Instead, it strives to present the da
 
 In a world flooded with headlines, data can offer clarity — and perhaps, perspective. By turning to facts, we can contribute to a more informed and empathetic discourse.
 
-https://github.com/yahya3336/-Israel-Palestine-Fatalities/blob/main/Israel-Palestine.jpg
+Screenshot:
+Dashboard looks like ![Alt text](https://github.com/yahya3336/-Israel-Palestine-Fatalities/blob/main/Israel-Palestine.jpg)
